@@ -9,3 +9,5 @@ tags:
   - this is cool
 ---
 This is **pretty** cool. I'm more a markdown type guy but hey.
+
+# they added markdown now nice
